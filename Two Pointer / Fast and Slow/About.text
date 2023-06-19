@@ -54,3 +54,4 @@ Now let's see how Floyd's algorithm detects cycles and what happens with multipl
 
 It's important to note that Floyd's cycle-finding algorithm is primarily designed to detect the presence of cycles in a linked list efficiently. If there are multiple cycles in a linked list, the algorithm will detect only one of them, and it does not provide information about the other cycles or their specific locations.
 
+ - Source: ChatGPT
